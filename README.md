@@ -5,7 +5,8 @@
 3. Ejecuta el siguiente comando para clonar el repositorio:
 
     ```bash
-    git clone https://github.com/tu_usuario/tu_repositorio.git
+    git clone https://github.com/nancygarcesh/SegundoParcialSauceDemo.git
+
     ```
 
 4. Navega al directorio del proyecto:
